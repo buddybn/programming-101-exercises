@@ -31,7 +31,7 @@
 # Pick the rest of the values yourself. :-)
 
 
-people = {"123": {"name": "Blagoja", "surname": "Neshovski", "age": 35, "weight": 80.5, "is_married": False, "children": [{"name": "Bobi", "surname": "Neshovski", "age": 3, "weight": 10.2, "is_married": False, "children": []}, {"name": "Nada", "surname": "Neshovska", "age": 1, "weight": 2.1, "is_married": False, "children": []}] }, "456": {"children": [{"name": "Petko", "surname": "Petkovski", "age": 3, "weight": 3.5, "is_married": False, "children": []}] } }
+people = {"123": {"name": "Blagoja", "surname": "Neshovski", "age": 35, "weight": 80.5, "is_married": False, "children": [{"name": "Bobi", "surname": "Neshovski", "age": 3, "weight": 10.2, "is_married": False, "children": []}, {"name": "Nada", "surname": "Neshovska", "age": 1, "weight": 2.1, "is_married": False, "children": []}] }, "456": {"name": "Aleksandar", "surname": "Neshovski", "age": 30, "weight": 75.2, "is_married": True, "children": [{"children": [{"name": "Petko", "surname": "Petkovski", "age": 3, "weight": 3.5, "is_married": False, "children": []}] }] } }
 
 
 # TESTS (don't edit)
